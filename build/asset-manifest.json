@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.16b53cbb.css",
+    "main.js": "/static/js/main.17e78ccd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/metodopago.png": "/static/media/metodopago.a17abbd2fca00fb296fd.png",
+    "index.html": "/index.html",
+    "main.16b53cbb.css.map": "/static/css/main.16b53cbb.css.map",
+    "main.17e78ccd.js.map": "/static/js/main.17e78ccd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16b53cbb.css",
+    "static/js/main.17e78ccd.js"
+  ]
+}
